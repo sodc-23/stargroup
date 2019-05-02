@@ -1,0 +1,28 @@
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+// Base
+@import "base/base";
+
+// Font-awesome
+@import "~font-awesome/scss/font-awesome";
+
+// swiper
+@import "~swiper/src/swiper";
+
+// Modules
+@import "modules/form";
+@import "modules/panels";
+@import "modules/buttons";
+
+// Shared
+@import "shared/sidebar";
+@import "shared/footer";
+
+// Layouts
+@import "layouts/posts";
+@import "layouts/administration";
+
+@import "page";

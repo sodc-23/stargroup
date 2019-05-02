@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="90%" height="90%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="-15 -15 610 610"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    #path_1 {fill: none;
+    stroke: #38C7F6;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-dasharray: 1.000000e-03,6;}
+    .fil0 {fill:none}
+    .fil1 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="linear" gradientUnits="userSpaceOnUse" x1="46.4048" y1="467.654" x2="96.9973" y2="466.851">
+   <stop offset="0" style="stop-opacity:1; stop-color:#81CFF4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#18B5FE"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <path id="path_1" d="M8,290a282,282 0 1,0 564,0a282,282 0 1,0 -564,0" ></path>
+  <path d="M0 -20 h10 v10 h10 v10 h-10 v10 h-10 v-10 h-10 v-10 h10 z"  fill="url(#linear)">
+        <animateMotion id="plus__1" path="M8,290a282,282 0 1,0 564,0a282,282 0 1,0 -564,0" begin="0" repeatCount="indefinite" dur="5s"></animateMotion>
+        <animateTransform path="M8,290a282,282 0 1,0 564,0a282,282 0 1,0 -564,0" attributeType="xml" attributeName="transform" type="rotate" from="0 0 0" to="720 0 0" dur="5s" repeatCount="indefinite"></animateTransform>
+ </path>
+ </g>
+</svg>
