@@ -8,8 +8,8 @@ Development environment requirements :
 
 Setting up your development environment on your local machine :
 ```bash
-$ git clone https://github.com/stargroup007/stargroup.git
-$ cd stargroup
+$ git clone https://github.com/guillaumebriday/laravel-blog.git
+$ cd laravel-blog
 $ cp .env.example .env
 $ docker-compose run --rm --no-deps blog-server composer install
 $ docker-compose run --rm --no-deps blog-server php artisan key:generate
